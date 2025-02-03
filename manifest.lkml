@@ -1,4 +1,4 @@
-project_name: "search_social_trends-content-generator"
+# project_name: "search_social_trends-content-generator"
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
