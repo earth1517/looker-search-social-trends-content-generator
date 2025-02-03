@@ -1,6 +1,6 @@
 looker.plugins.visualizations.add({
-  id: "hello_world",
-  label: "Hello World",
+  id: "search_social_trends-content-generator",
+  label: "Search Social Trends - Content Generator",
   create: function(element, config) {
 
     // Insert a <style> tag with updated styles for layout, headings, and content

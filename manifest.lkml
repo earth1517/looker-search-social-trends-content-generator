@@ -24,5 +24,5 @@
 visualization: {
 id: "search_social_trends-content-generator"
 label: "Search Social Trends - Content Generator"
-file: "visualizations/hello_world.js"
+file: "visualizations/search_social_trends-content-generator.js"
 }
