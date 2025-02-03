@@ -22,7 +22,7 @@
 # default: "small"
 
 visualization: {
-id: "hello_world"
-label: "Hello World"
+id: "search_social_trends-content-generator"
+label: "Search Social Trends - Content Generator"
 file: "visualizations/hello_world.js"
 }
